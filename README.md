@@ -1,2 +1,2 @@
 # Photo-Album
-Photo album of my favorite car using JFrame
+First GUI project. Created a photo album of my favorite car using JFrame
